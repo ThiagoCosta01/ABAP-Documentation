@@ -1,0 +1,10 @@
+SELECTION-SCREEN BEGIN OF BLOCK b1. (Define um bloco na tela de seleção) 
+SELECTION-SCREEN END OF BLOCK b1.
+
+TITLE (define o título do bloco)
+WITH FRAME (adiciona bordas ao bloco)
+PARAMETERS (Define campo/variável para o usuário inserir valores)
+SELECT-OPTIONS (Define campo/variável com valor de início e fim)
+NO INTERVALS (retira a opção de intervalo do select-options)
+SELECTION-SCREEN SKIP (pula linha na tela de seleção)
+
