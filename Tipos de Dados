@@ -1,0 +1,13 @@
+Tipos completos:
+I -Inteiro (tamanho 8)
+D - Data (tamanho 8/10)
+T - Tempo (tamanho 8)
+F - Ponto Flutuante (tamanho 8)
+String - Cadeia de caracteres (tamanho indefinido)
+XSting - Cadeia de caracteres hexadecimal (tamanho indefinido)
+
+Tipos incompletos:
+C - Caractere
+N - Numérico
+X - Sequência de bytes (hexadecimal)
+P - Sequencia de 1 a 16 hexadecimais
