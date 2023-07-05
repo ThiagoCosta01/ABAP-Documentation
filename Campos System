@@ -1,0 +1,5 @@
+sy-datum (data atual do servidor)
+sy-ezeit (hora atual do servidor)
+sy-uname (usuário logado)
+sy-ucomm (botão clicado)
+sy-subrc (erros de sistema)
