@@ -1,0 +1,6 @@
+IGUAL             =      EQ
+DIFERENTE         <>     NE
+MAIOR QUE         >      GT
+MENOR QUE         <      LT
+MAIOR IGUAL       >=     GE
+MENOR IGUAL       <=     LE
