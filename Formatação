@@ -1,0 +1,12 @@
+Cores:
+COLOR 1-7 (Escolhe a cor do texto)
+COLOR REVERSE/Inverse (aplica a cor para as letras)
+FORMAT COLOR (Adiciona cor à todos write seguintes)
+FORMAT COLOR OFF ou RESET (reseta as configurações de cor)
+
+Justificar:
+CENTERED (centraliza dado no meio do campo)
+LEFT-JUSTIFIED (justifica dado à esquerda)
+
+ULINE (imprime linha na tela)
+SKIP (pula linha)
