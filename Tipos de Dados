@@ -11,3 +11,6 @@ C - Caractere
 N - Numérico
 X - Sequência de bytes (hexadecimal)
 P - Sequencia de 1 a 16 hexadecimais
+
+DATA (Define variáveis)
+CONSTANTS (define constantes)
